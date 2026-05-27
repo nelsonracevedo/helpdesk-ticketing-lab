@@ -36,6 +36,8 @@ This project simulates a real-world IT Help Desk environment using osTicket on W
 - Wi-Fi connectivity issue
 - Printer malfunction
 - Slow computer
+#### Tickets Examples in OSTicket
+![tickets](screenshots/admin/08%20login%20and%20configuration%20%2302%20after%20admin%20login.png)
 
 ## Screenshots
 
