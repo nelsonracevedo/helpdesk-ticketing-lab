@@ -1,9 +1,9 @@
 # Help Desk Ticketing Lab
 
-##Project Overview / Objective
+## Project Overview / Objective
 This project simulates a real-world IT Help Desk environment using osTicket on Windows Server 2022. Users can submit support tickets while IT staff manage, prioritize, assign, and resolve issues through a structured ticketing workflow.
 
-##Technologies Used
+## Technologies Used
 - Windows Server 2022
 - Internet Information Services
 - PHP
