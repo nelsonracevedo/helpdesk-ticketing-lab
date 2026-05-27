@@ -40,7 +40,7 @@ This project simulates a real-world IT Help Desk environment using osTicket on W
 ## Screenshots
 
 ### Ticket Dashboard
-![Dashboard](screenshots/admin/"08 login and configuration #02 after admin login.png")
+![Dashboard](screenshots/admin/08 login and configuration %2302 after admin login.png)
 
 ## Skills Learned
 
