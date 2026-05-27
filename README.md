@@ -19,6 +19,8 @@ This project simulates a real-world IT Help Desk environment using osTicket on W
 - Static IP configured on server
 - Web server running IIS to host osTicket
 - Web server running MYSQL to manage osTicket database
+#### Network Diagram
+![network diagram](docs/network_diagram.png)
 
 ## Features Implemented
 
