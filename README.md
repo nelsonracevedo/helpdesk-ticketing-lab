@@ -37,7 +37,7 @@ This project simulates a real-world IT Help Desk environment using osTicket on W
 - Printer malfunction
 - Slow computer
 #### Tickets Examples in OSTicket
-![tickets](screenshots/admin/08%20login%20and%20configuration%20%2302%20after%20admin%20login.png)
+![tickets](https://github.com/nelsonracevedo/helpdesk-ticketing-lab/blob/main/screenshots/admin/10%20admin%20machine%20%2302%20all%20tickets%20after%20asignation.png)
 
 ## Screenshots
 
